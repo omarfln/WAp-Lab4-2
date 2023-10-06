@@ -1,0 +1,62 @@
+        /* Add white vertical lines with spaces around "Products" */
+        .vertical-line {
+            height: 20px;
+            margin: 0 20px;
+            padding-top: 5px;
+            color: white;
+        }
+
+
+        .select-option-text {
+            float: left;
+        }
+
+        .dropdown-arrow {
+            float: right;
+        }
+
+
+        .dropdown-toggle::after {
+            display: none;
+        }
+
+        #b1 {
+            margin-right: 20px;
+        }
+        #name1, #dateSupplied, #up1, #dropdownMenuButton, #pn{
+            width: 600px;
+        }
+
+        #b2{
+            margin-right: 20px;
+        }
+
+        #dropdownMenuButton{
+            border: 1px solid black;
+        }
+
+        #nav{
+            background-color: rgb(3, 176, 245);
+        }
+
+        #hl{
+            color: white;
+            margin: 4px;
+        }
+
+        #hdo{
+            padding: 70px;
+            font-weight: lighter;
+        }
+
+        .col-md-6{
+            padding-left: 70px 
+        }
+
+
+        #lb{
+            padding-left: 300px;
+        }
+
+
+
